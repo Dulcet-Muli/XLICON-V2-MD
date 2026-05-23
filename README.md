@@ -13,7 +13,6 @@
 ### ℹ️ **About XLICON-V2**
 XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [abztech](https://github.com/abrahamdw882). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="abztech :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
 ![Bot Repository Size](https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
