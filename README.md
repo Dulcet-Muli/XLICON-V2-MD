@@ -11,7 +11,7 @@
 [![XLICON](https://i.ibb.co/BVmdwyv8/IMG-20260417-WA0030.jpg)](https://youtu.be/WcA7GZuaN0A)
 
 ### ℹ️ **About XLICON-V2**
-XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [abztech](https://github.com/abrahamdw882). founded by Salman  It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+XLICON-V2 is a versatile Multi-Device WhatsApp bot built by [abztech](https://github.com/abrahamdw882). founded by Salman  It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
 
 ### **Bot Statistics**
