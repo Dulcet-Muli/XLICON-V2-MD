@@ -83,7 +83,7 @@ NOW Deploy👇
 <div>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/salmanytofficial"><img src="https://github.com/ahmmikun.png" width="250" height="250" alt="Salman Ahmad"/></a>
   
 **XLICON-V2** - By `salmanytofficial`
 <br>
